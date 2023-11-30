@@ -1,0 +1,3 @@
+[submodule "basic_terraform_module"]
+	path = basic_terraform_module
+	url = https://github.com/rzfeeser/basic_terraform_module
